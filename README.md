@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LizNewLight23
-- 👀 I’m interested in ... cloud architect
+- 👀 I’m interested in ...systems engineer
 - 🌱 I’m currently learning ... azure
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
